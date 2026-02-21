@@ -1,0 +1,3 @@
+void rever(int &st, int num) {
+    st = st ^ (1 << num);
+}

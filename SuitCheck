@@ -1,0 +1,3 @@
+bool checking(int st, int num) {
+    return st & (1 << num);
+}
